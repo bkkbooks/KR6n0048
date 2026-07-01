@@ -1,0 +1,160 @@
+canonical_identifier: bkk:krp/KR6n0048/X/v1
+canonical_location: https://kanripo.org/bkk/KR6n0048/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成唯識論音響補遺科
+  identifiers:
+    krp: KR6n0048
+    cbeta: X51n0825
+    cbeta_old_id: X51n0825
+    authorityid: CA0005007
+    json_key: X0825
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X51/X51n0825.xml
+    old_id: X51n0825
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0048_000-X.yaml, hash: 'sha256:55b4ba9c37ba5d389da97cc632f4463deda3d84bab7fe00c3e756eb8fcd3e437'}
+  - {seq: 1, filename: KR6n0048_001-X.yaml, hash: 'sha256:d8193cfbc941c2264eac62ca7b6aa23d8c84c50eb1aee6e8fd6e3eedd7626749'}
+  - {seq: 2, filename: KR6n0048_002-X.yaml, hash: 'sha256:f4703b8da28d486a5ec6732c27230bdf661fc0a4766ab4cbdc9fbdb8afa4627f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0048_000-X.markers.yaml, hash: 'sha256:008b53680e1ba2c35e15d34803657c5b82100f38f9e1d87504ab1d1592c01e34'}
+  - {seq: 1, role: markers, filename: assets/KR6n0048_001-X.markers.yaml, hash: 'sha256:19293ef48c4bfd19cd3903b83d2c7704ea4b74a8d95e6013280b408dcb8dd75e'}
+  - {seq: 2, role: markers, filename: assets/KR6n0048_002-X.markers.yaml, hash: 'sha256:f1e35b9b796b1a28de36ff06592a91b54984385c73aaeefbd1d808d43539bcd6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6n0048_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 825-A 序〔龍省〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0048_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 11116
+  label: 成唯識論音響補遺科文卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0048_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0048_X_001-mulu-2
+    span:
+    - body
+    - 1895
+    - 1895
+  label: 第二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0048_X_001-mulu-3
+    span:
+    - body
+    - 4199
+    - 4199
+  label: 第三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0048_X_001-mulu-4
+    span:
+    - body
+    - 6261
+    - 6261
+  label: 第四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0048_X_001-mulu-5
+    span:
+    - body
+    - 8646
+    - 8646
+  label: 第五卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0048_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 9625
+  label: 成唯識論音響補遺科文卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0048_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第六卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0048_X_002-mulu-2
+    span:
+    - body
+    - 1985
+    - 1985
+  label: 第七卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0048_X_002-mulu-3
+    span:
+    - body
+    - 4161
+    - 4161
+  label: 第八卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0048_X_002-mulu-4
+    span:
+    - body
+    - 6327
+    - 6327
+  label: 第九卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0048_X_002-mulu-5
+    span:
+    - body
+    - 7963
+    - 7963
+  label: 第十卷
+  type: mulu
+  level: 1
+hash: sha256:47bc29d855a120c6f10d2848ccde749099903be4896f3a45270818ac5f7f5947
