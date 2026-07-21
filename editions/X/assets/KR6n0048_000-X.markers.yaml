@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6n0048/X/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR6n0048_X_000-0454b, ed: X, 'n': 0454b, source_xml_id: X51.0825.0454b}
   - {type: line-break, offset: 0, content: '', id: KR6n0048_X_000-0454b01, ed: X, 'n': 0454b01}
   - {type: line-break, offset: 0, content: '', id: KR6n0048_X_000-0454b02, ed: X, 'n': 0454b02}
@@ -198,6 +198,5 @@ markers:
   - {type: punctuation, offset: 482, content: '5', id: KR6n0048_X_000-bkkpn111}
   - {type: line-break, offset: 482, content: '', id: KR6n0048_X_000-0455a02, ed: X, 'n': 0455a02}
   - {type: line-break, offset: 482, content: '', id: KR6n0048_X_000-0710a01, ed: R082, 'n': 0710a01}
-  body: []
   back: []
-hash: sha256:008b53680e1ba2c35e15d34803657c5b82100f38f9e1d87504ab1d1592c01e34
+hash: sha256:08b8e41bfbf4fe639fc2b053124e2e4eca74ffc51517a6a9c3077ef23a7bd903

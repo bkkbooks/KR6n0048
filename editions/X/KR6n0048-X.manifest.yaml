@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6n0048_000-X.yaml, hash: 'sha256:55b4ba9c37ba5d389da97cc632f4463deda3d84bab7fe00c3e756eb8fcd3e437'}
+  - {seq: 0, filename: KR6n0048_000-X.yaml, hash: 'sha256:695e8265d702cd1acc919fd245dcde91ab7e67c559eea23bd0dca74c76e7b3e7'}
   - {seq: 1, filename: KR6n0048_001-X.yaml, hash: 'sha256:d8193cfbc941c2264eac62ca7b6aa23d8c84c50eb1aee6e8fd6e3eedd7626749'}
   - {seq: 2, filename: KR6n0048_002-X.yaml, hash: 'sha256:f4703b8da28d486a5ec6732c27230bdf661fc0a4766ab4cbdc9fbdb8afa4627f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0048_000-X.markers.yaml, hash: 'sha256:008b53680e1ba2c35e15d34803657c5b82100f38f9e1d87504ab1d1592c01e34'}
+  - {seq: 0, role: markers, filename: assets/KR6n0048_000-X.markers.yaml, hash: 'sha256:08b8e41bfbf4fe639fc2b053124e2e4eca74ffc51517a6a9c3077ef23a7bd903'}
   - {seq: 1, role: markers, filename: assets/KR6n0048_001-X.markers.yaml, hash: 'sha256:19293ef48c4bfd19cd3903b83d2c7704ea4b74a8d95e6013280b408dcb8dd75e'}
   - {seq: 2, role: markers, filename: assets/KR6n0048_002-X.markers.yaml, hash: 'sha256:f1e35b9b796b1a28de36ff06592a91b54984385c73aaeefbd1d808d43539bcd6'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0048_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 825-A 序〔龍省〕
@@ -157,4 +157,4 @@ table_of_contents:
   label: 第十卷
   type: mulu
   level: 1
-hash: sha256:47bc29d855a120c6f10d2848ccde749099903be4896f3a45270818ac5f7f5947
+hash: sha256:5a90768041a495a7919f813b55bf8f9f352ac00aec5708ae05dc9b77c3465f8e
